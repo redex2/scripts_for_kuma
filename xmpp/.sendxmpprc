@@ -1,0 +1,6 @@
+username: name
+jserver: server_connect_domain[e.g. jabber.example.com]
+component: server_domain[e.g. example.com]
+port: server_port[e.g. 5222]
+password: secret
+
