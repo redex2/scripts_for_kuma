@@ -1,1 +1,2 @@
-Scripts for uptime kuma
+# Scripts for uptime kuma
+ - xmpp ping
